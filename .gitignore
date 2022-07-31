@@ -1,0 +1,12 @@
+# OS X files
+__MACOSX
+.DS_Store
+# Python
+__pycache__
+venv
+# IDE
+.idea
+.vscode
+# temporary files
+temp_*
+**/temp_*
